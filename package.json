@@ -1,0 +1,14 @@
+{
+  "name": "nchu-news-parser",
+  "version": "1.0.0",
+  "description": "a parser for crawling nchu news",
+  "main": "n",
+  "scripts": {
+    "test": "n"
+  },
+  "author": "YoYo",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-input": "^3.0.0"
+  }
+}
